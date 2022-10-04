@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Math
+- 🔭 I’m currently working on epsilon-delta proofs
 - 🌱 I’m currently learning Web Development(HTML, CSS, JS)
 
 <!--
