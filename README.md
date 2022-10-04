@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Math
-- 🌱 I’m currently learning Web Development
--->
+- 🌱 I’m currently learning Web Development(HTML, CSS, JS)
 
 <!--
 **az19642/az19642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
