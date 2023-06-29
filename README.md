@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+### Stats
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=az19642&show_icons=true&include_all_commits=true&theme=buey&bg_color=white&hide_border=true" alt="az19642's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az19642&theme=buey&bg_color=white&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Repositories
+<a href="https://github.com/az19642/dev-portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=az19642&repo=az19642&theme=buey&bg_color=white" /></a>
+<a href="https://github.com/az19642/steam-scraper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=az19642&repo=steam-scraper&theme=buey&bg_color=white" /></a>
 <!--
 **az19642/az19642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
