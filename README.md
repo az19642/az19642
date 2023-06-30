@@ -5,8 +5,10 @@
 | ------------- | ------------- |
 
 ### Repositories
-<a href="https://github.com/az19642/dev-portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=az19642&repo=az19642&theme=buey&bg_color=white" /></a>
+<a href="https://github.com/az19642/personal-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=az19642&repo=personal-website&theme=buey&bg_color=white" /></a>
 <a href="https://github.com/az19642/steam-scraper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=az19642&repo=steam-scraper&theme=buey&bg_color=white" /></a>
+
+
 <!--
 **az19642/az19642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
