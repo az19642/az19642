@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ### Stats
-| <a href="https://github-readme-stats.vercel.app/api?username=az19642&show_icons=true&include_all_commits=true&theme=buey&bg_color=white&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=az19642&show_icons=true&include_all_commits=true&theme=buey&bg_color=white&hide_border=true" alt="az19642's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=az19642&show_icons=true&include_all_commits=true&theme=buey&bg_color=white&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az19642&theme=buey&bg_color=white&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 ### Repositories
 <a href="https://github.com/az19642/personal-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=az19642&repo=personal-website&theme=buey&bg_color=white" /></a>
